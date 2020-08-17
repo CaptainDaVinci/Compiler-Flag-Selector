@@ -49,3 +49,6 @@ $ cd ui
 $ npm install
 $ ng serve
 ```
+
+### See the algorithm in action!
+You can now view the simulation [here](https://captaindavinci.github.io/Compiler/home).
